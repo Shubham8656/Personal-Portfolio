@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+body{
+  box-sizing: border-box;
+}
+/* @media screen and (max-width:400px){
+  body{
+    background-image: url('./components/image/1.jpg');
+    background-size: cover;
+  }
+} */
