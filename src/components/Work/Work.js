@@ -12,7 +12,7 @@ export default function Work(){
         <div className='work-container' id='work'>
             <h2 id='project'>CHECK OUT SOME OF MY PROJECTS</h2>
             <div className='project-container'>
-                <a href='https://quirky-wilson-715526.netlify.app/'>
+                <a href='https://online-grossary-store.netlify.app/'>
                     <img src={ecommerce} alt=''/>
                     <h3>Online Grossary Store</h3>
                 </a>
