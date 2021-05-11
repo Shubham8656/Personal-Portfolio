@@ -6,8 +6,8 @@
     background-image: url('../image/bg4.jpg');
 }
 #profile{
-    width: 10%;
-    height: 10%;
+    width: 15%;
+    height: 15%;
     border-radius: 50%;
 }
 @media screen and (max-width:400px){
