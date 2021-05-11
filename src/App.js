@@ -7,7 +7,7 @@ import Work from './components/Work/Work';
 import Education from './components/Education/Education';
 import Contact from './components/Contact/Contact';
 import Header from './components/Header/Header';
-// import Contact from './components/Contact/Contact';
+import Experience from './components/Experience/Experience';
 
 function App() {
   return (
@@ -16,9 +16,10 @@ function App() {
       <Home/>
       <Work/>
       <Skills/>
+      <Experience/>
+      <br></br>
       <Education/>
       <Contact/>
-
     </div>
   );
 }
