@@ -2,7 +2,12 @@
   text-align: center;
 }
 body{
+  border: 0;
+  margin: 0;
   box-sizing: border-box;
+}
+html{
+  scroll-behavior:smooth;
 }
 /* @media screen and (max-width:400px){
   body{
