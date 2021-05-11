@@ -1,1 +1,1 @@
-Project URL - https://inspiring-panini-9a2d5d.netlify.app/
+Project URL - https://personal-portfolio-resume.netlify.app/
