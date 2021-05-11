@@ -1,12 +1,12 @@
 import React from 'react';
 import  './Home.css';
-import shu from '../image/shu.jpg';
+import dp from '../image/dp.png';
 
 export default function Home(){
     return(
         <div className='home' id='home'>
             <div className='header'>
-                <img id='profile' src={shu} alt=''/>
+                <img id='profile' src={dp} alt=''/>
                 <div id='name'>I'm Shubham Vibhute</div>
                 <div className='social'>
                     <a href='https://github.com/Shubham8656'><div className="fa fa-github" id='github'  style={{fontSize:"40px",color:"rgb(1500, 200, 255)"}}></div></a>
@@ -15,7 +15,7 @@ export default function Home(){
                 </div>
                 
                 <p id='desc'> I describe myself as a developer who like to code things from scratch, 
-                I think I have gotten better over time, so take a look at my  
+                I think I have gotten better over time. 
                 I do think I can work well with people.
                 I like ambitious goals. I like thinking through how we can anticipate the future.
                 My career objective is to Secure a responsible career opportunity to utilize my skills,
