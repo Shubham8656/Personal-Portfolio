@@ -1,0 +1,41 @@
+.education{
+    background-color: rgb(163, 160, 160);
+    padding: 3% 6%;
+}
+/* .edu-container{
+    display: grid;
+    grid-template-columns: 40% 60%;
+} */
+.card{
+    margin-bottom: 3%;
+    box-shadow: 5px 10px 5px grey;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#organisation{
+    background-color: lavender;
+    padding: 1%;
+    text-align: left;
+    border-top-left-radius: 20px;
+}
+#school{
+    font-size: 150%;
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-shadow: 1px 2px gray;
+}
+#time{
+    font-size: 120%;
+    font-weight: 500;
+    text-shadow: 2px gray;
+}
+#course{
+    border-bottom-right-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 1%;
+    height: 60px;
+    text-align: left;
+    font-size: 130%;
+    font-weight: 500;
+    letter-spacing: 1px;
+}

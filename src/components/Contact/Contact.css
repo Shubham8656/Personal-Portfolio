@@ -1,0 +1,73 @@
+.contact{
+    padding: 5%;
+    background-color: rgb(245, 249, 253);
+}
+.contact-container{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: auto;
+    margin-top: -1%;
+    align-items: center;
+}
+.contact-container>input,textarea{
+    height: 30px;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    font-size: 110%;
+    width: 100%;
+}
+textarea,#message{
+    height: 100px;
+    font-size: 130%;
+    border: 2px solid black;
+    /* border-radius: 20px; */
+}
+#submit{
+    width: 50%;
+    margin: auto;
+    padding: 3px;
+    background-color: blueviolet;
+    color: white;
+}
+.social-link{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+    /* margin-top: 3%; */
+    padding: 5%;
+}
+#insta,#twitter,#faceb,#linked,#gith{
+    font-size: 200%;
+    color:grey;
+    /* color: rgb(0, 153, 255); */
+}
+#insta:hover,#twitter:hover,#faceb:hover,#linked:hover,#gith:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    color: black;
+}
+@media screen and (max-width:400px){
+    .contact-container>input,textarea{
+        height: 30px;
+        width: 130%;
+        margin-bottom: 3%;
+        border-radius: 10px;
+        font-size: 110%;
+    }
+    textarea,#message{
+        height: 100px;
+        font-size: 110%;
+        border: 2px solid black;
+        /* border-radius: 20px; */
+    }
+    #submit{
+        width: 100%;
+        margin: auto;
+        padding: 3px;
+        background-color: blueviolet;
+        color: white;
+    }
+    
+}
