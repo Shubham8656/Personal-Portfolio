@@ -9,7 +9,7 @@ export default function Education(){
                 <div className='card'>
                     <div id='organisation'>
                         <p id='school'>GreyAtom, Mumbai</p>                        
-                        <p id='time'>March 2020 - Present</p>
+                        <p id='time'>March 2020 - Dec 2020</p>
                     </div>
                     <div id='course'>Front End Developement</div>
                 </div>
