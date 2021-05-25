@@ -2,7 +2,7 @@ import React from 'react';
 import  './Work.css';
 import weather from '../image/weather.jpg';
 import ecommerce from '../image/ecommerce.jpg';
-import financial from '../image/financial.jpg';
+import covid from '../image/covid.png';
 import zomato from '../image/zomato.jpg';
 import payment from '../image/payment.jpg';
 import event from '../image/event.jpg';
@@ -17,9 +17,9 @@ export default function Work(){
                     <h3>Online Grossary Store</h3>
                 </a>
                 
-                <a href='https://thirsty-mccarthy-1b7990.netlify.app/'>
-                    <img src={financial} alt=''/>
-                    <h3>Financial Portfolio Page </h3>
+                <a href='https://covid-self-assessment.netlify.app/'>
+                    <img src={covid} alt=''/>
+                    <h3>Covid Self Assessment</h3>
                 </a>
 
                 <a href='https://modest-euler-3abbb5.netlify.app/'>
