@@ -1,6 +1,7 @@
 import React from 'react';
 import  './Work.css';
 import weather from '../image/weather.jpg';
+// import ecommerce from '../image/ecommerce.jpg';
 import ecommerce from '../image/ecommerce.jpg';
 import covid from '../image/covid.png';
 import mucormycosis from '../image/mucormycosis.png';
@@ -28,7 +29,7 @@ export default function Work(){
                     <h3>Mucormycosis Analysis</h3>
                 </a>
 
-                <a href='http://modest-euler-3abbb5.netlify.app/'>
+                <a href='https://weather-forecastination.netlify.app/'>
                     <img src={weather} alt=''/>
                     <h3>Weather Application </h3>
                 </a>
@@ -38,7 +39,7 @@ export default function Work(){
                     <h3>Zomato Replica </h3>
                 </a>
 
-                <a href='http://practical-gates-13307b.netlify.app/'>
+                <a href='https://payment-portal-app.netlify.app/'>
                     <img src={payment} alt=''/>
                     <h3>Payment Portal</h3>
                 </a>
