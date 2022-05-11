@@ -11,7 +11,7 @@ export default function Education(){
                         <p id='school'>TCS, Pune</p>                        
                         <p id='time'>March 2020 - Present</p>
                     </div>
-                    <div id='course'>Assistant System Engg-Trainee</div>
+                    <div id='course'>Assistant System Engineer</div>
                 </div>
                 <div className='card'>
                     <div id='organisation'>
