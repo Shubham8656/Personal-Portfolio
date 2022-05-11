@@ -1,6 +1,6 @@
 import React from 'react';
 import  './Home.css';
-import dp from '../image/dp.png';
+import dp from '../image/dp.jpg';
 
 export default function Home(){
     return(
