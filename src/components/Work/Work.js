@@ -8,6 +8,7 @@ import mucormycosis from '../image/mucormycosis.png';
 import zomato from '../image/zomato.jpg';
 import payment from '../image/payment.jpg';
 import event from '../image/event.jpg';
+import contactManager from '../image/contactManager.PNG';
 
 export default function Work(){
     return(
@@ -20,7 +21,7 @@ export default function Work(){
                 </a>
 
                 <a href='https://contact-manager-shubham.netlify.app/'>
-                    <img src={ecommerce} alt=''/>
+                    <img src={contactManager} alt=''/>
                     <h3>Contact Manager</h3>
                 </a>
                 
