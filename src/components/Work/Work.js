@@ -18,6 +18,11 @@ export default function Work(){
                     <img src={ecommerce} alt=''/>
                     <h3>Online Grossary Store</h3>
                 </a>
+
+                <a href='https://contact-manager-shubham.netlify.app/'>
+                    <img src={ecommerce} alt=''/>
+                    <h3>Contact Manager</h3>
+                </a>
                 
                 <a href='http://covid-self-assessment.netlify.app/'>
                     <img src={covid} alt=''/>
