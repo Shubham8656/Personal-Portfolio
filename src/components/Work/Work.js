@@ -2,7 +2,7 @@ import React from 'react';
 import  './Work.css';
 import weather from '../image/weather.jpg';
 // import ecommerce from '../image/ecommerce.jpg';
-import ecomerce from '../image/ecommerce.jpg';
+import ecomerce from '../image/ecomerce.PNG';
 import covid from '../image/covid.png';
 import mucormycosis from '../image/mucormycosis.png';
 import zomato from '../image/zomato.jpg';
