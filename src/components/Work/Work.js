@@ -16,7 +16,7 @@ export default function Work(){
             <h2 id='project'>CHECK OUT SOME OF MY PROJECTS</h2>
             <div className='project-container'>
                 <a href='http://priceless-turing-84fb4f.netlify.app/'>
-                    <img src={ecommerce} alt=''/>
+                    <img src={ecomerce} alt=''/>
                     <h3>Online Grossary Store</h3>
                 </a>
 
