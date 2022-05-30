@@ -8,8 +8,8 @@ export default function Education(){
             <div className='edu-container'>
                 <div className='card'>
                     <div id='organisation'>
-                        <p id='school'>TCS, Pune</p>                        
-                        <p id='time'>March 2020 - Present</p>
+                        <p id='school'>Tata Consultancy Services, Pune</p>                        
+                        <p id='time'>March 2021 - Present</p>
                     </div>
                     <div id='course'>Assistant System Engineer</div>
                 </div>
